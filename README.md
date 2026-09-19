@@ -52,11 +52,11 @@ Nutrition-Analytics-Data-Pipeline/
 ├── source_data/
 │   └── user_nutritional_data.csv
 │
-├── code/
-│   └── main.py
+├── python_code/
+│   └── main(1).py
 │
-├── output/
-│   └── final_output.csv
+├── output_data/
+│   └── final.csv
 │
 └── dashboard/
-    └── dashboard.png
+    └── Tableau Workbook
