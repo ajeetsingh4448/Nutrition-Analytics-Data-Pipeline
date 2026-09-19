@@ -42,10 +42,6 @@ An interactive Tableau dashboard was developed to analyze:
 - Weight and meal patterns
 - Height, weight, and calorie relationships
 
-### Dashboard Preview
-
-![Nutrition Analytics Dashboard](dashboard/dashboard.png)
-
 ## Project Structure
 
 ```text
